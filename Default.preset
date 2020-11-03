@@ -3,7 +3,10 @@
 # Author: Disassembler <disassembler@dasm.cz>
 # Version: v3.10, 2020-07-15
 # Source: https://github.com/Disassembler0/Win10-Initial-Setup-Script
-# 
+# Customized By: Monty Vanderlinde
+# Note: This customization focuses on minimizing your windows install to an extreme degree,
+#       along with some personal layout preferences.  All credit for designing and building
+#       the script goes to Disassembler at the link above!
 ##########
 
 ### Require administrator privileges ###
